@@ -1,0 +1,25 @@
+.NavStyle {
+  width: 100%;
+  height: 100px;
+}
+.header li {
+    float: left;
+    display: block;
+}
+  
+.header a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  text-decoration: none;
+  color: black;
+}
+
+.active {
+  background-color: #191717;
+  color: white;
+}
+
+.dev-name {
+  margin: 6px;
+}

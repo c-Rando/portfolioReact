@@ -1,0 +1,16 @@
+.project {
+    position: relative;
+    bottom: 20px;
+    left: 120px;
+}
+
+.github {
+    position: relative;
+    bottom: 20px;
+    left: 280px;
+}
+
+.portfolio {
+    display: flex;
+    justify-content: space-evenly;
+}
